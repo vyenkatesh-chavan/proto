@@ -86,6 +86,25 @@ const PROJECTS = [
     github: "https://github.com/vyenkatesh-chavan/ml_basic/blob/main/ml_basic02.ipynb",
     live: null,
   },
+  {
+  number: "06",
+  title: "RESIDER",
+  description:
+    "Secure password vault and self-control platform that stores encrypted passwords and introduces time-based access restrictions to reduce impulsive access to distracting applications.",
+  technologies: [
+    "React.js",
+    "Tailwind CSS",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "JWT",
+    "Nodemailer",
+    "AES-256-GCM",
+  ],
+  details: [],
+  github: "https://github.com/vyenkatesh-chavan/RESIDER-Password-manager",
+  live: "https://resider-password-manager.vercel.app/",
+},
 ];
 
 const ProjectCard = ({ project }) => {
