@@ -39,7 +39,7 @@ const PROJECTS = [
     title: "Final Bid",
     description:
       "Real-time bidding platform for project posting and bidding, with an ML-powered chatbot for project price prediction and secure chat-based interactions.",
-    technologies: ["React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "Machine Learning"],
+    technologies: ["React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "LLM"],
     details: [],
     github: "https://github.com/vyenkatesh-chavan/finalbid",
     live: null,
